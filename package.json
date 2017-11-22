@@ -1,0 +1,29 @@
+{
+  "name": "react-food-truck",
+  "displayName": "React Food Truck",
+  "description":
+    "A curated collection of extensions for discerning React developers.",
+  "version": "0.0.3",
+  "publisher": "burkeholland",
+  "icon": "images/react-food-truck-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burkeholland/react-food-truck.git"
+  },
+  "keywords": ["React", "React JS", "React Snippets"],
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionDependencies": [
+    "burkeholland.simple-react-snippets",
+    "xabikos.javascriptsnippets",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "capaj.vscode-exports-autocomplete",
+    "gottfired.css2react",
+    "christian-kohler.npm-intellisense",
+    "angryobject.react-pure-to-class-vscode"
+  ]
+}
