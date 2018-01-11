@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.2
+
+* Remove import cost extension
+
 ## 0.0.3
 
 * Give David some credit for the icon
