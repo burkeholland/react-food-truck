@@ -3,7 +3,7 @@
   "displayName": "React Food Truck 🍔",
   "description":
     "A curated collection of extensions for discerning React developers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "burkeholland",
   "icon": "images/react-food-truck-icon.png",
   "repository": {
