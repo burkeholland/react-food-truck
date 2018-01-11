@@ -68,16 +68,6 @@ your imports.
 
 <hr>
 
-### [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-
-How big is this file I just imported into my component? WHO CARES. I'm on a gig
-connection. But on the off case you care about how many bits you hammer your
-users with, this extension has your back.
-
-![Import Cost](https://i.imgur.com/jQLi12r.gif)
-
-<hr>
-
 ### [Exports Autocomplete](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete)
 
 Still importing components manually? Why? Just use the component in your JSX and
