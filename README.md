@@ -68,15 +68,6 @@ your imports.
 
 <hr>
 
-### [Exports Autocomplete](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete)
-
-Still importing components manually? Why? Just use the component in your JSX and
-this extension will import it for you.
-
-![Exports Autocomplete](https://i.imgur.com/TM6l3o6.gif)
-
-<hr>
-
 ### [CSS2React](https://marketplace.visualstudio.com/items?itemName=gottfired.css2react)
 
 You know how you copy/paste in some CSS to a React component, then you gotta fix
