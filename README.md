@@ -8,7 +8,7 @@ A collection of curated extensions for discerning React developers.
 
 ## On The Truck
 
-### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets&WT.mc_id=m365-0000-buhollan)
 
 Only the cleanest, freshest set of React snippets in the market. Everything you
 need with no snippet bloat. Created by one of the nicest guys on the planet.
@@ -17,7 +17,7 @@ need with no snippet bloat. Created by one of the nicest guys on the planet.
 
 <hr>
 
-### [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+### [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets&WT.mc_id=m365-0000-buhollan)
 
 All the best ES6 snippets at your finger tips. Why type `import` when you can
 type `imp`? It's three letters shorter. That's called productivity.
@@ -26,7 +26,7 @@ type `imp`? It's three letters shorter. That's called productivity.
 
 <hr>
 
-### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=m365-0000-buhollan)
 
 Your code looks a little shady. Tighten it up with Prettier. Not sure if you
 need that semicolon? Don't fret - Prettier knows.
@@ -42,7 +42,7 @@ experience.
 
 <hr>
 
-### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&WT.mc_id=m365-0000-buhollan)
 
 Your JavaScript is so solid, you don't need a linter. But if you did, it would
 be ESLint and you would use this extension.
@@ -58,7 +58,7 @@ to your User Settings...
 
 <hr>
 
-### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense&WT.mc_id=m365-0000-buhollan)
 
 Stop guessing at your npm packages. You never get it right anyway. Is leftpad or
 left-pad? Not your problem anymore. This extension provides intellisense for
@@ -68,7 +68,7 @@ your imports.
 
 <hr>
 
-### [Exports Autocomplete](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete)
+### [Exports Autocomplete](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete&WT.mc_id=m365-0000-buhollan)
 
 Still importing components manually? Why? Just use the component in your JSX and
 this extension will import it for you.
@@ -77,7 +77,7 @@ this extension will import it for you.
 
 <hr>
 
-### [CSS2React](https://marketplace.visualstudio.com/items?itemName=gottfired.css2react)
+### [CSS2React](https://marketplace.visualstudio.com/items?itemName=gottfired.css2react&WT.mc_id=m365-0000-buhollan)
 
 You know how you copy/paste in some CSS to a React component, then you gotta fix
 it cause CSS isn't valid JavaScript? Never. again.
@@ -86,7 +86,7 @@ it cause CSS isn't valid JavaScript? Never. again.
 
 <hr>
 
-### [React Pure To Class](https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode)
+### [React Pure To Class](https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode&WT.mc_id=m365-0000-buhollan)
 
 Do you need a class or a pure component? Nobody ever knows until they make a
 component and then realize this thing isn't nearly as dumb as they thought it
